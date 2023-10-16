@@ -1,6 +1,5 @@
 # Nitin Dodamani
-![github-header-image (2)](https://github.com/Nitin201/Nitin201/assets/60124943/809308d8-cb90-496d-8884-c392ea7c7533)
-
+![github-header-image (1)](https://github.com/Nitin201/Nitin201/assets/60124943/22ec4026-4bfa-4208-aed0-c38bec002425)
 
 🎓 College student
 🌱 Learning Web full stack
