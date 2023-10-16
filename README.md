@@ -18,3 +18,7 @@
 ![js](https://github.com/Nitin201/Nitin201/assets/60124943/d6cdeaed-3237-40ba-8f39-8cf632e43ed7)
 ![react](https://github.com/Nitin201/Nitin201/assets/60124943/d36a3f93-9b81-4b7d-99e1-17a244a87456)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
