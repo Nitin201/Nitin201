@@ -11,8 +11,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href=https://www.linkedin.com/in/nitin-dodamani-774419232/">
+  <img height="50" src="![image](https://github.com/Nitin201/Nitin201/assets/60124943/f4f2626c-c89c-43c0-9c5d-52daf35dae8b)"/>
 </a>
 
 # Frontend Development
