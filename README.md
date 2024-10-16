@@ -2,7 +2,7 @@
 
 
 
-![Uploading linkedin_cover_image.png…]()
+[Uploading DALL·E 2024-10-02 23.02.01 - A visual roadmap for learning Azure DevOps for beginners. The roadmap is structured in a clean, modern design with nodes representing each stage conne.webp…]()
 
 
 
