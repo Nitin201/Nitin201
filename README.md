@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img width="100%" src="banner.png" alt="Nitin Dodamani - DevOps Engineer">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Nitin Dodamani</h1>
 
