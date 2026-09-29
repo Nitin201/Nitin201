@@ -10,25 +10,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Full+Stack+Development+Enthusiast;Building+Scalable+Cloud+Applications;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Full+Stack+Development;API+Testing+%26+Automation;Building+Scalable+Cloud+Applications;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nitin201">
-    <img src="https://komarev.com/ghpvc/?username=Nitin201&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nitin201&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on Cloud, DevOps, and Full Stack Development projects.
-- ☁️ Interested in AWS, Azure, cloud infrastructure, and automation.
+- ☁️ Interested in AWS, Azure, Cloud Infrastructure, and Automation.
+- ⚙️ Working with CI/CD pipelines, Infrastructure as Code, and containerization.
 - 🌐 Building web applications using Angular, React, Node.js, and Express.js.
-- ⚙️ Experienced with CI/CD pipelines, Infrastructure as Code, and containerization.
+- 🗄️ Interested in database design, SQL, and MySQL.
+- 🧪 Exploring API testing, automation testing, and software quality assurance.
 - 🐳 Exploring Kubernetes, cloud-native technologies, and scalable application deployment.
-- 🌱 Continuously learning Cloud Engineering, DevOps, and modern web development.
 - 🎯 Goal: Build secure, scalable, and reliable applications from frontend to cloud infrastructure.
 
 ---
@@ -67,13 +65,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### 📈 Monitoring & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
 ### 🌐 Full Stack Development
 
 #### 🎨 Frontend Development
@@ -103,6 +94,42 @@
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+### 🧪 Software Testing & Quality Assurance
+
+#### 🔌 API Testing & Documentation
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+</p>
+
+#### ⚙️ Testing & Automation Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+</p>
+
+#### ✅ Testing Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Unit_Testing-0A7EA4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integration_Testing-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Testing-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional_Testing-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression_Testing-8A2BE2?style=for-the-badge" />
+</p>
+
+### 📈 Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
 ### 🧠 Programming & Scripting
 
 <p>
@@ -125,7 +152,7 @@
 
 ### ☁️ AWS DevOps & CI/CD Pipeline
 
-- Designed CI/CD workflows to automate application build, testing, and deployment.
+- Designed CI/CD workflows to automate application builds, testing, and deployment.
 - Integrated Jenkins, Git, Docker, and AWS services into deployment workflows.
 - Used Infrastructure as Code and automation tools to provision and manage cloud resources.
 
@@ -146,7 +173,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitin201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nitin's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitin201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin201&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -159,7 +186,15 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitin201/Nitin201/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/Nitin201/Nitin201/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Every contribution counts! Keep building and keep learning.</i>
 </p>
 
 ---
